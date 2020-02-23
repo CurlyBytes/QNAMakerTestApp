@@ -1,0 +1,29 @@
+﻿{
+    "name": "Destination Helper FAQ",
+    "qnaList": [
+        {
+            "id": 0,
+            "answer": "Let us go to INOX!",
+            "source": "Genertal",
+            "questions": [
+                "Where to go for a movie?"
+            ],
+            "metadata": []
+        },
+        {
+            "id": 1,
+            "answer": "Let us explore the new PVR!",
+            "source": "Genertal",
+            "questions": [
+                "Where to go for a movie?",
+                "Need a Recliner?"
+            ],
+            "metadata": [
+                {
+                    "name": "category",
+                    "value": "api"
+                }
+            ]
+        }
+    ]
+}
