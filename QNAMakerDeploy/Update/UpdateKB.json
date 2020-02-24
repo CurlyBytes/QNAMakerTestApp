@@ -2,13 +2,12 @@
     "update": {
         "qnaList": [
             {
-                "id": 2,
+                "id": 1,
                 "answer": "Let us explore the new PVR at Kolkata!",
                 "source": "General",
                 "questions": {
-
-                    "delete": ["Need more comfort?"],
-                    "add": ["Need a cab booking as well?"]
+                    
+                    "add": ["How to reach the movie hall?"]
 
                  }
             }
