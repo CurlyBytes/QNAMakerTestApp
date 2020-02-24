@@ -2,21 +2,15 @@
     "update": {
         "qnaList": [
             {
-                "id": 1,
+                "id": 2,
                 "answer": "Let us explore the new PVR at Kolkata!",
                 "source": "General",
                 "questions": {
 
-                    "delete": ["Where to go for a movie?", "Need a Recliner?"],
-                    "add": ["Need more comfort?"]
+                    "delete": ["Need more comfort?"],
+                    "add": ["Need a cab booking as well?"]
 
-                 },
-                "metadata": [
-                    {
-                        "name": "category",
-                        "value": "luis"
-                    }
-                ]
+                 }
             }
         ]
     }
