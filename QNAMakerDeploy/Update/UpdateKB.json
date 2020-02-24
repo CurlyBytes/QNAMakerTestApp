@@ -6,8 +6,9 @@
                 "answer": "Let us explore the new PVR at Kolkata!",
                 "source": "General",
                 "questions": {
-                    
-                    "add": ["How to reach the movie hall?"]
+
+                    "add": [ "How to go there?" ],
+                    "delete": [ "How to reach the movie hall?" ]
 
                  }
             }
