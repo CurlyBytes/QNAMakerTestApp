@@ -33,5 +33,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Update\Xlx\CreateKB.txt" />
+    <None Include="Update\Xlx\CreateKB-2.txt" />
   </ItemGroup>
 </Project>
