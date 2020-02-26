@@ -1,0 +1,16 @@
+﻿{
+    "add": {
+
+        "urls": [
+            "https://docs.microsoft.com/en-us/azure/cognitive-services/Emotion/FAQ"
+        ]
+    },
+
+    "update": {
+        "urls": [
+
+            "https://docs.microsoft.com/en-in/azure/cognitive-services/qnamaker/faqs",
+            "https://docs.microsoft.com/en-us/bot-framework/resources-bot-framework-faq"
+        ]
+    }
+}

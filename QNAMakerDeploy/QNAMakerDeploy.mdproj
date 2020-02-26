@@ -18,7 +18,12 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </Content>
-    <Content Include="Update\Json\UpdateKB.json">
+    <Content Include="Update\UpdateKB.json">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="UpdateByURL\UpdateKB.json">
       <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
@@ -28,11 +33,6 @@
     <Folder Include="Create\" />
     <Folder Include="Update\" />
     <Folder Include="Train\" />
-    <Folder Include="Update\Json\" />
-    <Folder Include="Update\Xlx\" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Update\Xlx\CreateKB.txt" />
-    <None Include="Update\Xlx\CreateKB-2.txt" />
+    <Folder Include="UpdateByURL\" />
   </ItemGroup>
 </Project>
