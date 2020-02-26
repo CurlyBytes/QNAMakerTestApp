@@ -28,11 +28,17 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </Content>
+    <Content Include="CreateByURL\CreateKB.json">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Create\" />
     <Folder Include="Update\" />
     <Folder Include="Train\" />
     <Folder Include="UpdateByURL\" />
+    <Folder Include="CreateByURL\" />
   </ItemGroup>
 </Project>
