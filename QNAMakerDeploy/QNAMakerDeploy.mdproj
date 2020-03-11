@@ -33,6 +33,11 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </Content>
+    <Content Include="CreateByKeyValue\CreateKB.json">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Create\" />
@@ -40,5 +45,6 @@
     <Folder Include="Train\" />
     <Folder Include="UpdateByURL\" />
     <Folder Include="CreateByURL\" />
+    <Folder Include="CreateByKeyValue\" />
   </ItemGroup>
 </Project>
