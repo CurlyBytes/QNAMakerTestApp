@@ -1,14 +1,13 @@
 ﻿{
-    "name": "Destination Helper FAQ",
+    "name": "CreateKB by KeyValue",
     "qnaList": [
-        {
-
-            "How is it today": "Nice and Sunny",
-            "How are you": "Fit & Healthy",
-            "Like this model": "I love Mercs, Audis"
-
+        
+        { "How is it today": "Nice and Sunny" },
+        { "How are you": "Fit & Healthy" },
+        { "Like this model": "I love Mercs, Audis" }
 
 
-        }
+
+        
     ]
 }
