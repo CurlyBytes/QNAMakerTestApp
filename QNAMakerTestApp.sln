@@ -5,6 +5,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QNAMakerTestApp", "QNAMaker
 EndProject
 Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "QNAMakerDeploy", "QNAMakerDeploy\QNAMakerDeploy.mdproj", "{82285592-24F5-4909-946E-060E48B74C3C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C5FC7D78-DBB3-4F75-842C-49A9B0A68B96}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

@@ -4,7 +4,7 @@
         {
             "id": 0,
             "answer": "Let us go to INOX!!",
-            "source": "Genetal",
+            "source": "General",
             "questions": [
                 "Where to go for a movie?"
             ],
@@ -13,7 +13,7 @@
         {
             "id": 1,
             "answer": "Let us explore the new PVR!",
-            "source": "Genertal",
+            "source": "General",
             "questions": [
                 "Where to go for a movie?",
                 "Need a Recliner?"
